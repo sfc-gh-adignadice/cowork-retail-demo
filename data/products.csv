@@ -1,0 +1,88 @@
+product_id,product_name,department,subcategory,supplier_id,unit_cost,unit_price,launch_date,status
+1,Apex SmartToast Pro,Home & Kitchen,Kitchen Appliances,1,35,99,2023-09-01,Active
+2,Apex BrewMaster 360,Home & Kitchen,Kitchen Appliances,1,62,179,2024-01-10,Active
+3,Apex QuickBoil Kettle,Home & Kitchen,Kitchen Appliances,1,22,69,2022-06-01,Active
+4,Apex PrecisionChop Food Processor,Home & Kitchen,Kitchen Appliances,1,48,139,2023-03-20,Active
+5,ProBlend 9000,Home & Kitchen,Kitchen Appliances,2,89,249,2026-06-02,Active
+6,ProBlend 5000,Home & Kitchen,Kitchen Appliances,2,45,129,2024-03-15,Active
+7,KiwiCraft Artisan Kettle,Home & Kitchen,Kitchen Appliances,11,28,79,2023-11-01,Active
+8,Apex InfuseMax Blender,Home & Kitchen,Kitchen Appliances,1,38,109,2024-06-15,Active
+9,BlendTech SmoothiePro,Home & Kitchen,Kitchen Appliances,2,32,89,2023-08-01,Active
+10,Apex DualBrew Coffee System,Home & Kitchen,Kitchen Appliances,1,75,219,2025-02-01,Active
+11,KiwiCraft Pour-Over Dripper,Home & Kitchen,Kitchen Appliances,11,15,49,2024-07-01,Active
+12,BlendTech JuicePress 400,Home & Kitchen,Kitchen Appliances,2,55,159,2025-05-01,Active
+13,Apex AirFry Compact,Home & Kitchen,Kitchen Appliances,1,42,129,2025-08-01,Active
+14,Apex SliceMaster Mandoline,Home & Kitchen,Kitchen Appliances,1,12,39,2022-01-15,Active
+15,NovaCook Titanium Frypan 28cm,Home & Kitchen,Cookware,3,38,99,2023-04-01,Active
+16,NovaCook Cast Iron Dutch Oven,Home & Kitchen,Cookware,3,52,149,2022-09-01,Active
+17,SteelCraft 5-Piece Knife Set,Home & Kitchen,Cookware,4,65,179,2023-01-15,Active
+18,SteelCraft Chef's Knife 20cm,Home & Kitchen,Cookware,4,28,79,2022-03-01,Active
+19,NovaCook Baking Sheet Set,Home & Kitchen,Cookware,3,18,49,2024-02-01,Active
+20,SteelCraft Wok 32cm,Home & Kitchen,Cookware,4,32,89,2023-06-15,Active
+21,NovaCook Saucepan Trio,Home & Kitchen,Cookware,3,45,129,2023-11-01,Active
+22,SteelCraft Bread Knife,Home & Kitchen,Cookware,4,15,49,2024-05-01,Active
+23,NovaCook Pizza Stone,Home & Kitchen,Cookware,3,22,59,2024-08-01,Active
+24,SteelCraft Sharpening Steel,Home & Kitchen,Cookware,4,12,39,2023-02-01,Active
+25,NovaCook Stockpot 8L,Home & Kitchen,Cookware,3,35,99,2022-11-01,Active
+26,Lumière Scented Candle Trio,Home & Kitchen,Home Decor,5,12,39,2023-05-01,Active
+27,Lumière Ceramic Vase Large,Home & Kitchen,Home Decor,5,25,69,2023-09-15,Active
+28,Pacific Woven Wall Art,Home & Kitchen,Home Decor,6,35,99,2024-01-10,Active
+29,Lumière Cushion Set (2-pack),Home & Kitchen,Home Decor,5,18,49,2023-03-01,Active
+30,Pacific Driftwood Mirror,Home & Kitchen,Home Decor,6,45,129,2024-04-01,Active
+31,Lumière Reed Diffuser,Home & Kitchen,Home Decor,5,8,29,2023-07-01,Active
+32,Pacific Pounamu Photo Frame,Home & Kitchen,Home Decor,6,15,49,2024-06-01,Active
+33,Lumière Throw Blanket Merino,Home & Kitchen,Home Decor,5,38,109,2023-11-15,Active
+34,Pacific Tealight Holder Set,Home & Kitchen,Home Decor,6,10,29,2024-08-15,Active
+35,OrganiSpace Modular Shelving Unit,Home & Kitchen,Storage & Organization,7,55,149,2023-06-01,Active
+36,TidyLiving Bamboo Container Set,Home & Kitchen,Storage & Organization,8,22,59,2023-09-01,Active
+37,OrganiSpace Closet System Pro,Home & Kitchen,Storage & Organization,7,75,199,2024-02-01,Active
+38,TidyLiving Drawer Dividers (6-pack),Home & Kitchen,Storage & Organization,8,10,29,2024-01-15,Active
+39,OrganiSpace Under-Bed Storage Box,Home & Kitchen,Storage & Organization,7,15,39,2023-04-01,Active
+40,TidyLiving Spice Rack Carousel,Home & Kitchen,Storage & Organization,8,18,49,2024-05-01,Active
+41,OrganiSpace Shoe Tower 10-Tier,Home & Kitchen,Storage & Organization,7,28,79,2023-12-01,Active
+42,TidyLiving Vacuum Storage Bags (8-pack),Home & Kitchen,Storage & Organization,8,12,35,2024-03-01,Active
+43,OrganiSpace Pantry Bins Set,Home & Kitchen,Storage & Organization,7,20,49,2024-07-01,Active
+44,CloudSoft Egyptian Cotton Towel Set,Home & Kitchen,Bedding & Bath,9,28,79,2023-05-01,Active
+45,Heritage 1000TC Sheet Set Queen,Home & Kitchen,Bedding & Bath,10,55,149,2023-08-01,Active
+46,CloudSoft Memory Foam Bath Mat,Home & Kitchen,Bedding & Bath,9,18,49,2024-01-01,Active
+47,Heritage Waffle Weave Duvet Cover,Home & Kitchen,Bedding & Bath,10,65,179,2024-03-15,Active
+48,CloudSoft Bamboo Pillowcase Pair,Home & Kitchen,Bedding & Bath,9,12,35,2023-10-01,Active
+49,Heritage Linen Throw,Home & Kitchen,Bedding & Bath,10,42,119,2024-06-01,Active
+50,CloudSoft Spa Robe,Home & Kitchen,Bedding & Bath,9,25,69,2024-04-01,Active
+51,Heritage Turkish Hand Towel Set,Home & Kitchen,Bedding & Bath,10,15,45,2023-12-01,Active
+52,CloudSoft Weighted Blanket 7kg,Home & Kitchen,Bedding & Bath,9,35,99,2025-01-15,Active
+53,TechFlow AeroX Wireless Earbuds,Electronics,Audio & Headphones,12,32,99,2024-09-01,Active
+54,Nordic SoundSphere Speaker,Electronics,Audio & Headphones,13,65,179,2024-11-01,Active
+55,TechFlow BassCore Headphones,Electronics,Audio & Headphones,12,45,129,2024-06-01,Active
+56,Nordic Aurora Soundbar,Electronics,Audio & Headphones,13,95,249,2025-01-15,Active
+57,TechFlow PodMini Speaker,Electronics,Audio & Headphones,12,15,49,2025-03-01,Active
+58,Nordic Studio Monitor Pair,Electronics,Audio & Headphones,13,120,349,2025-06-01,Active
+59,SmartLink WiFi Plug 4-Pack,Electronics,Smart Home,14,18,49,2024-05-01,Active
+60,SmartLink SecureCam Indoor,Electronics,Smart Home,14,35,99,2024-08-01,Active
+61,SmartLink Doorbell Pro,Electronics,Smart Home,14,55,149,2025-02-01,Active
+62,SmartLink Motion Sensor Kit,Electronics,Smart Home,14,22,69,2025-04-01,Active
+63,SmartLink Hub Controller,Electronics,Smart Home,14,42,119,2025-07-01,Active
+64,VoltEdge USB-C Cable 2m (3-pack),Electronics,Accessories,15,5,19,2024-01-01,Active
+65,VoltEdge 65W GaN Charger,Electronics,Accessories,15,18,49,2024-06-01,Active
+66,VoltEdge MagSafe Phone Case,Electronics,Accessories,15,12,39,2024-09-01,Active
+67,VoltEdge Wireless Charging Pad,Electronics,Accessories,15,15,45,2025-01-01,Active
+68,SouthernTrail Bypass Pruner,Outdoor & Garden,Garden Tools,16,15,45,2023-08-01,Active
+69,GreenScape Expandable Hose 15m,Outdoor & Garden,Garden Tools,18,22,59,2024-01-01,Active
+70,SouthernTrail Trowel & Fork Set,Outdoor & Garden,Garden Tools,16,10,29,2023-05-01,Active
+71,GreenScape Self-Watering Planter,Outdoor & Garden,Garden Tools,18,18,49,2024-04-01,Active
+72,SouthernTrail Telescopic Loppers,Outdoor & Garden,Garden Tools,16,28,79,2024-07-01,Active
+73,AquaShield Folding Chair Set (2),Outdoor & Garden,Outdoor Furniture,17,45,129,2023-10-01,Active
+74,AquaShield Teak Side Table,Outdoor & Garden,Outdoor Furniture,17,55,149,2024-02-01,Active
+75,AquaShield Market Umbrella 3m,Outdoor & Garden,Outdoor Furniture,17,38,99,2024-05-15,Active
+76,AquaShield Outdoor Cushion Set,Outdoor & Garden,Outdoor Furniture,17,25,69,2023-12-01,Active
+77,AquaShield Deck Storage Box,Outdoor & Garden,Outdoor Furniture,17,65,179,2024-09-01,Active
+78,PeakForm Pro Yoga Mat,Sports & Fitness,Fitness Equipment,19,12,39,2024-01-01,Active
+79,PeakForm Hex Dumbbell Set 20kg,Sports & Fitness,Fitness Equipment,19,35,99,2024-04-01,Active
+80,PeakForm Resistance Band Kit,Sports & Fitness,Fitness Equipment,19,8,29,2024-02-15,Active
+81,PeakForm Adjustable Bench,Sports & Fitness,Fitness Equipment,19,75,199,2024-08-01,Active
+82,PeakForm Jump Rope Speed,Sports & Fitness,Fitness Equipment,19,5,19,2024-06-01,Active
+83,CoastLine Match Rugby Ball,Sports & Fitness,Team Sports,20,18,49,2023-03-01,Active
+84,CoastLine Junior Cricket Set,Sports & Fitness,Team Sports,20,32,89,2023-09-01,Active
+85,CoastLine Netball Training,Sports & Fitness,Team Sports,20,12,35,2024-01-01,Active
+86,CoastLine Touch Rugby Kit,Sports & Fitness,Team Sports,20,25,69,2024-05-01,Active
+87,CoastLine Beach Volleyball,Sports & Fitness,Team Sports,20,15,45,2024-03-01,Active

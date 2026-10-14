@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,lead_time_days,reliability_score,delivery_delay_days,delay_start_date,expected_resolution_date,primary_category
+1,Apex Kitchen Co,China,21,82,9,2026-08-25,2026-09-08,Kitchen Appliances
+2,BlendTech Industries,South Korea,18,94,0,,,Kitchen Appliances
+3,NovaCook,Italy,25,91,0,,,Cookware
+4,SteelCraft Culinary,Germany,22,88,0,,,Cookware
+5,Lumière Home,France,28,86,0,,,Home Decor
+6,Pacific Interiors,New Zealand,7,93,0,,,Home Decor
+7,OrganiSpace,Australia,10,90,0,,,Storage & Organization
+8,TidyLiving Co,Japan,20,95,0,,,Storage & Organization
+9,CloudSoft Textiles,India,30,85,0,,,Bedding & Bath
+10,Heritage Linens,Portugal,26,92,0,,,Bedding & Bath
+11,KiwiCraft Ceramics,New Zealand,5,97,0,,,Kitchen Appliances
+12,TechFlow Components,Taiwan,14,96,0,,,Audio & Headphones
+13,Nordic Audio,Denmark,20,93,0,,,Audio & Headphones
+14,SmartLink Devices,China,16,87,0,,,Smart Home
+15,VoltEdge,South Korea,12,91,0,,,Accessories
+16,SouthernTrail Gear,New Zealand,6,95,0,,,Garden Tools
+17,AquaShield,Australia,9,89,0,,,Outdoor Furniture
+18,GreenScape NZ,New Zealand,5,94,0,,,Garden Tools
+19,PeakForm Athletics,Vietnam,24,88,0,,,Fitness Equipment
+20,CoastLine Surf,Australia,11,90,0,,,Team Sports

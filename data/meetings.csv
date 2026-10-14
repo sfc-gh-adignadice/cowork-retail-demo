@@ -1,0 +1,9 @@
+meeting_id,meeting_date,meeting_time,title,attendees,notes,location
+1,2026-09-01,09:00,Weekly Category Standup,Category team,Review weekly KPIs and priorities,Meeting Room 3A
+2,2026-09-01,14:00,Supplier Review - Apex Kitchen Co,"Apex account manager, Procurement",Discuss delivery delays and resolution timeline,Meeting Room 2B
+3,2026-09-02,10:00,Q3 Range Planning,Merchandise Planning team,Finalise Q4 kitchen range selections,Board Room
+4,2026-09-02,15:30,Digital Marketing Sync,Marketing team,Review online campaign performance for Home & Kitchen,Virtual - Teams
+5,2026-09-03,09:30,Morning Briefing,Direct reports,Daily priorities and blockers,Meeting Room 3A
+6,2026-09-03,14:00,Buyer Meeting - Q4 Kitchen Range,"Sarah Wong (buyer), Procurement lead",Present Q4 range recommendations with supporting data,Board Room
+7,2026-09-04,11:00,Store Visit - Hamilton,Hamilton store manager,Review store performance and new layout effectiveness,Hamilton Centre Store
+8,2026-09-05,13:00,Weekly Wrap / WBR,Leadership team,Weekly business review - present category highlights,Executive Board Room
